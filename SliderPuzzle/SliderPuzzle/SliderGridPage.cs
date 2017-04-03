@@ -11,7 +11,8 @@ namespace SliderPuzzle
     public class SliderGridPage : ContentPage
     {
 
-        private const int SIZE = 4;
+        private const int SIZE = 4;//size of da grid
+
 
         private AbsoluteLayout _absoluteLayout;
         private Dictionary<GridPosition, GridItem> _gridItems;
