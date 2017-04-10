@@ -66,6 +66,7 @@
     <EmbeddedResource Include="14.jpeg" />
     <EmbeddedResource Include="15.jpeg" />
     <EmbeddedResource Include="16.jpeg" />
+    <EmbeddedResource Include="17.jpeg" />
     <EmbeddedResource Include="2.jpeg" />
     <EmbeddedResource Include="3.jpeg" />
     <EmbeddedResource Include="4.jpeg" />
